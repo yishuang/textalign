@@ -1,7 +1,7 @@
 package myself.textalign;
 
 /**
- * Lesson: jackson mapped requires a default java constructor.
+ * Lesson: jackson mapped requires a default java constructor. 
  * */
 public class InputText {
 
